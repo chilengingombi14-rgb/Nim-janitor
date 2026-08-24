@@ -31,6 +31,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'GLM': 'z-ai/glm-5.2',
   'gemma': 'google/gemma-4-31b-it',
+  'deepseek': 'deepseek-ai/deepseek-v4-flash-0731',
 };
 
 // Root endpoint
